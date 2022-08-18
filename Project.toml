@@ -1,1 +1,10 @@
+[project]
+name = "pyplasm"
+version = "1.0.0"
 
+[build]
+exclude = [
+    "/README.md",
+]
+
+include = []
